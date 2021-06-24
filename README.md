@@ -50,5 +50,8 @@
         </div>
       </form>
     </div>
+     <footer>
+        <span>Created By <a href="#">SparshKharya</a> | <span class="far fa-copyright"></span>&copy; 2021 All rights reserved.</span>
+    </footer>
   </body>
 </html>
